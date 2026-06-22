@@ -85,12 +85,13 @@ streamlit run streamlit_app.py
 
 If no incidents have been logged yet, the dashboard shows empty metrics and an empty table.
 
-## Sample Output Video
+## Demo Video
 
-<video width="640" height="480" controls>
-  <source src="data/output/processed_video.mp4" type="video/mp4">
+<video src="data/output/processed_video.mp4" controls width="720">
   Your browser does not support the video tag.
 </video>
+
+[Download the processed video](data/output/processed_video.mp4)
 
 ## Configuration
 
