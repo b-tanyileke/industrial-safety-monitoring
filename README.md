@@ -87,7 +87,10 @@ If no incidents have been logged yet, the dashboard shows empty metrics and an e
 
 ## Sample Output Video
 
-![Sample Output](data/output/processed_video.mp4)
+<video width="640" height="480" controls>
+  <source src="data/output/processed_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Configuration
 
