@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment files
+.env
+.env.*
+
+# Runtime outputs and dataset
+logs/
+data/person-hat-vest/
+data/videos/
+
+# Local input media
+data/videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Model and training artifacts
+*.pt
+runs/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
